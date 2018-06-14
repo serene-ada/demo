@@ -28,6 +28,7 @@ img {
 body {
     font-family: "Microsoft Yahei";
     font-size: 14px;
+    min-width:1400px;
 }
 
 
